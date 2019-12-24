@@ -1,0 +1,13 @@
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>My first web page</title>
+</head>
+<body>
+    <h1>Tieu de muc 1</h1>
+    <h2>Tieu de muc 2</h2>
+    <p><b>Doan van ban 1</b></p>
+  
+
+</body>
+</hmtl>
